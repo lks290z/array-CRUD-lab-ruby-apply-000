@@ -29,7 +29,7 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  row = [1,2,3,4,5]
+  row = [1,2,"am",4,5]
   row[2]
 end
 

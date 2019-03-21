@@ -20,7 +20,7 @@ end
 
 def remove_element_from_end_of_array(array)
   amous_cats = ["lil' bub", "grumpy cat", "Maru"]
-  arrays! = famous_cats.pop
+  arrays = famous_cats.pop
 end
 
 def remove_element_from_start_of_array(array)
